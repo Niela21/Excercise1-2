@@ -1,4 +1,4 @@
-# WatersortProject
+# Development
 Exercise for using GitHub 
 
 ## Problem and problem solving
